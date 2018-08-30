@@ -1,8 +1,8 @@
 #TITLE: Row Row Row Your Boat
-#FILE: Version 1
-#AUTHOR: Alec Sherman
+#FILE: Song1.rb
+#AUTHOR: HomieWippman
 #DATE: 8/28/18
-#DESC: Simple Melody, after day 2 of class, really struggling to understand sonic pi but not giving up!
+#DESC: Version 1. Simple Melody, after day 2 of class, really struggling to understand sonic pi but not giving up!
 
 use_bpm 60
 
